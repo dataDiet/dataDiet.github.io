@@ -1,0 +1,39 @@
+---
+layout: post
+title: Canonicalization
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+It’s quite common the case that I need to cluster categorical variables.
+When it comes to clustering, a number of well known techniques abound
+such as *k-means*, *k-medoids*, and *hierarchical clustering*. With *k-means*
+and *k-medoids* clustering, you must have an idea of the number of
+clusters $k$ desired. Furthermore, the final clusters can vary
+significantly depending on the number of initial clusters chosen. With
+hierarchical clustering, an intuitive cluster hierarchy can be observed,
+however computational efficiency and immediate utility is less clear.
+Nonetheless, the hierarhical clustering approach lends itself well to
+interpretation so let us consider this approach first. For example,
+consider a group of vehicles for transportation.
+
+> Car, Motorboat, Hatchback, Sailboat, Scateboard, Motorcycle, Pickup Truck, Oil Tanker, Dump Truck, Bike, Electric Scooter
+
+By no means is this an exhaustive list. Suppose we want to arrive at a
+smaller grouping of variables encompassing the original list. In order
+to use hierarchical clustering, we need to assign a distance value
+between every element and every other element. For $n$ elements, this
+usually involves needing to know $(n^2-n)/2 = n(n-1)/2$ elements.  In our
+above list of $10$ elements, this would be composed of a $10x10$ upper/lower
+triangular distance matrix where each element represent how close or far each element is to the next.
+The matrix does not need to be fully populated because distances are assumed to be symmetric.  
+Suppose we have such a matrix. We will let the rows and columns of the matrix be in the exact same order as above
+in R.
+```{r m}
+m <- matrix(c(0,1,1,10,1,1,1,1,10,1,0,0,1,10,1,1,1,1,10,1,0,0,0,10,1,1,1,1,10,1,0,0,0,0,10,10,10,10,1,1,0,0,0,0,0,1,1,1,10,1,0,0,0,0,0,0,1,1,10,1,0,0,0,0,0,0,0,1,10,1,0,0,0,0,0,0,0,0,10,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0),nrow=10,ncol=10)
+m
+```
+

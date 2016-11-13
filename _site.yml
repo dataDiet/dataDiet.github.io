@@ -7,5 +7,5 @@ navbar:
                   href: index.html
                 - text: "About"
                   href: about.html
-                - text: "Canonicalization"
+                - text: "Clustering"
                   href: clustering.html

@@ -6,4 +6,4 @@ output: html_document
 
 During the 2015-2016 school year, I worked with [Dr. Shiv Kapooor](https://mechanical.illinois.edu/directory/faculty/sgkapoor)  on a way to create low-cost lense molds for smartphone cameras.  The project was in collaboration with [FoxConn Interconnect Technologies](http://www.fit-foxconn.com/), the primary manufacturer of the iPhone. An axisymmetric specification of the lens is shown below.
 
-![FoxConn Lens Mold Spec](http://dataDiet.github.io/images/micromachining/foxconn_axisymmetric.png)
+<img src="/images/micromachining/foxconn_axisymmetric.png" alt="foxconn_lense_mold_specification" height="42" width="42">

@@ -10,4 +10,4 @@ navbar:
                 - text: "Clustering"
                   href: clustering.html
                 - text: "Micromachining"
-                  hrif: micromachining.html
+                  href: micromachining.html

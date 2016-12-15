@@ -2,7 +2,7 @@
 layout: post
 title: Micromachining 
 output: html_document
-fontsize: 11pt
+fontsize: 5pt
 ---
 
 During the 2015-2016 school year, I worked with [Dr. Shiv Kapooor](https://mechanical.illinois.edu/directory/faculty/sgkapoor)  on a way to create low-cost lense molds for smartphone cameras.  The project was in collaboration with [FoxConn Interconnect Technologies](http://www.fit-foxconn.com/), the primary manufacturer of the iPhone. An axisymmetric specification of the 4x zoom lens is below.  Most iPhone's are $~7 mm$ in thickness with most of that space devoted to non-camera components.  A 4x zoom lens in the limited space available is possible, but only in the micrometer ($10^{-6} m$) space.  The lens specified below is $354.1 \mu m$ in diameter and $52 \mu m$ in depth.  As a point of comparison, the average human hair is $80 - 100 \mu m$ in width. 

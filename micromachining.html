@@ -211,16 +211,21 @@ $(document).ready(function () {
 font-size: 0.3em;
 }
 </style>
-<p>During the 2015-2016 school year, I worked with <a href="https://mechanical.illinois.edu/directory/faculty/sgkapoor">Dr. Shiv Kapooor</a> on a way to create low-cost lense molds for smartphone cameras. The end result of the project was a toolholder providing manual horizontal adjustment for a TiAlN (Titanium Aluminum Nitride) coated turning bit.</p>
+<p>During the 2015-2016 school year, I worked with <a href="https://mechanical.illinois.edu/directory/faculty/sgkapoor">Dr. Shiv Kapooor</a> on a way to create low-cost lense molds for smartphone cameras. The end result of the project was a toolholder providing manual horizontal adjustment for a TiAlN (Titanium Aluminum Nitride) coated carbide turning bit.</p>
 <p><img src="/images/micromachining/toolholder_in_machine.png" alt="final_product" height="502" width="502"></p>
-<p>The project was in collaboration with <a href="http://www.fit-foxconn.com/">FoxConn Interconnect Technologies</a>, the primary manufacturer of the iPhone. An axisymmetric specification of the 4x zoom lens is shown below. Most iPhone’s are <span class="math inline">\(~7 mm\)</span> in thickness with most of that space devoted to non-camera components. A 4x zoom lens in the limited space available is possible, but only in the micrometer (<span class="math inline">\(10^{-6} m\)</span>) space. The lens specified below is <span class="math inline">\(354.1 \mu m\)</span> in diameter and <span class="math inline">\(52 \mu m\)</span> in depth. As a point of comparison, the average human hair is <span class="math inline">\(80 - 100 \mu m\)</span> in width.</p>
+<p>The project was in collaboration with <a href="http://www.fit-foxconn.com/">FoxConn Interconnect Technologies</a>, the primary manufacturer of the iPhone.</p>
+<p>An axisymmetric specification of the 4x zoom lens is shown below. Most iPhone’s are <span class="math inline">\(~7 mm\)</span> in thickness with most of that space devoted to non-camera components. A 4x zoom lens in the limited space available is possible, but only in the micrometer (<span class="math inline">\(10^{-6} m\)</span>) space. The lens specified below is <span class="math inline">\(354.1 \mu m\)</span> in diameter and <span class="math inline">\(52 \mu m\)</span> in depth. As a point of comparison, the average human hair is <span class="math inline">\(80 - 100 \mu m\)</span> in width.</p>
 <p><img src="/images/micromachining/foxconn_axisymmetric.png" alt="foxconn_lense_mold_specification" height="502" width="502"></p>
 <p>My objective was to design the tooling to make the lens mold itself.The lens mold itself; each lens mold could be used to create many lenses by pouring in molten glass into the mold. A CAD rendering of the lens mold is shown below.</p>
 <p><img src="/images/micromachining/lens_mold.png" height="502" width="502"></p>
 <p>The turning tool schematic is shown below. In order to achieve the required geometry, it was absolutely essential to center the turning bit at the center of the workpiece. Options for CNC adjustment included angular motion about the z-axis (the axis that comes off the page in the schematic), translation along the z-axis. For the small size of the part, the angular motion is largely equivalent to translation along the x-axis. The turning tool was originally designed to ensure maximum stiffness for turning operations. One missing axis of freedom is translation in the y-direction. Permanent offsets in the x,y plane result in an inability to cut through the actual center of the part in a satisfactory manner. This was the principal problem our part was designed to solve.</p>
-<p><img src="/images/micromachining/schematic.png" height="502" width="502"></p>
+<p><img src="/images/micromachining/tool_schematic.png" height="502" width="502"></p>
 <p>The problematic cross-sectional profile is shown below. We obtained this profile from a laser scan of the mold surface.</p>
 <p><img src="/images/micromachining/problem_cross_section.png" height="100" width=500"></p>
+<p>The magnitude of the offset error is approximately <span class="math inline">\(250 \mu m\)</span>. Given that the diameter specification is <span class="math inline">\(354.1 \mu m\)</span> this is quite a significant offset. Another problem that is observable is a significantly wider actual dimater <span class="math inline">\(&gt;800 \mu m\)</span> than the actual specification. This is due to a shallow rake angle on the tool itself. The results of our toolholder improvement are shown below. The spindle speed we set was 3000 RPM at a depth of cut of <span class="math inline">\(1 \mu m\)</span>. The work material is titanium.</p>
+<p><img src="/images/micromachining/final_profile.png" height="502" width="502"></p>
+<p>An overhead camera view of the cut is also shown below.</p>
+<p><img src="/images/micromachining/newcut.bmp" height="502" width="502"></p>
 
 
 

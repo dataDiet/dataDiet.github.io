@@ -39,6 +39,12 @@ An overhead camera view of the cut is also shown below.
 
 <img src="/images/micromachining/newcut.bmp" height="502" width="502">
 
+The keys to drastically improving the geometry of the final cut piece are come in the form of providing the additional translational adjustment.  The essential elements of the CAD design of the toolholder are shown below.  
 
+<img src="/images/micromachining/toolholder_design.png" height="502" width="502">
+
+The front plate is bolted to the back plate with additional spacing around the bolts providing the range of adjustment along the sliding tract of the front plate to the back plate.  This toolholder was made using a combination of spot welding, traditional milling and CNC milling. Along the sliding interlocking section, note the presence of an additional groove.  This groove was cut to circumvent the possibility of imperfections along face of the bottom plate along that corner of the slide. Fine adjustment of the toolholder was made possible by a $5 \mu m$ resolution micrometer shown below.  
+
+<img src="/images/micromachining/highres_micrometer.png" height="502" width="502">  
 
 

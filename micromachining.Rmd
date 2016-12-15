@@ -1,0 +1,7 @@
+---
+layout: post
+title: Micromachining 
+output: html_document
+---
+
+During the 2015-2016 school year, I worked with [Dr. Shiv Kapooor](https://mechanical.illinois.edu/directory/faculty/sgkapoor)  on a way to create low-cost lense molds for smartphone cameras.  The project was in collaboration with [FoxConn Interconnect Technologies](http://www.fit-foxconn.com/), the primary manufacturer of the iPhone.   

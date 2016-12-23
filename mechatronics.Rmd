@@ -1,0 +1,26 @@
+---
+layout: post
+title: Pathfinder
+output: html_document
+---
+
+It's surprising how much you can accomplish with a microprocessor, stepper motors, and infrared sensors.  The feedback mechanism is fairly clear in the video below.  One IR sensor looks for objects in front of the vehicle, one IR sensor looks for the edge of the table.  Namely, the vehicle moves in a straight path if the distance to the edge of the table is not exceeded.  If it is exceeded, it corrects course.  Once the front IR sensor measures an object in close proximity to the front of the vehicle, the vehicle makes a fixed course correction maneuver.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5Mb-Quoa2g" frameborder="0" allowfullscreen></iframe>
+
+In psuedo-code, the car's movement pattern boils down to the following psuedocode.
+	
+	too_close=3;  
+	distance_to_edge=6; 
+	while(true){
+		path_in_front = IR_sensor_front();
+		path_to_side = IR sensor_side();
+		if(path_in_front < too_close){
+	       		avoidance_maneuver();
+		}
+		while(path_to_side > distance_to_edge){
+			go_right();
+		}
+		go_straight();
+	}
+

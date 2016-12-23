@@ -11,3 +11,5 @@ navbar:
                   href: clustering.html
                 - text: "Micromachining"
                   href: micromachining.html
+                - text: "Parallel Pumps"
+                  href: pd_parallel.html

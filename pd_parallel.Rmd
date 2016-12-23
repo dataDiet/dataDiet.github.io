@@ -12,7 +12,11 @@ A number of possible reasons were initially proposed for why this might have occ
 
 <img src="/images/pd_parallel/parallel_normal.png" height="502" width="502">
 
-Suppose we operate the pumps at 450 RPM.  If we look at the operating specifications of these pumps shown in the diagram below, we see that at 450 RPM, the pumps are generating a 10 GPM flow rate.  Note that the flow rate varies linearly with pump speed.  Pressure is fixed.  The total flow rate is the sum of the two, or 20 GPM. If one of the pumps needs to be serviced, or is taken out of order for any reason, only the flow rate is affected, but one pump can continue to provide 250 PSI of pressure at 10 GPM. Contrast this situation with two pumps put in series as shown below.  Using the same pumps running at the same opearating conditions, we would generate 500 PSI at 10 GPM. That is, the pressures add together.  All properties are exactly the same as with electric circuit networks, with pumps taking the same role as batteries.
+Suppose we operate the pumps at 450 RPM.  If we look at the operating specifications of these pumps shown in the diagram below, we see that at 450 RPM, the pumps are generating a 10 GPM flow rate.  
+
+<img src="/images/pd_parallel/pd_pump_spec.png" height="502" width="502">
+
+Note that the flow rate varies linearly with pump speed.  Pressure is fixed.  The total flow rate is the sum of the two, or 20 GPM. If one of the pumps needs to be serviced, or is taken out of order for any reason, only the flow rate is affected, but one pump can continue to provide 250 PSI of pressure at 10 GPM. Contrast this situation with two pumps put in series as shown below.  Using the same pumps running at the same opearating conditions, we would generate 500 PSI at 10 GPM. That is, the pressures add together.  All properties are exactly the same as with electric circuit networks, with pumps taking the same role as batteries.
 
 <img src="/images/pd_parallel/series_normal.png" height="502" width="502">
 

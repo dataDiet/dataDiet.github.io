@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pathfinder
+title: Path Follower
 output: html_document
 ---
 

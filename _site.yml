@@ -13,5 +13,5 @@ navbar:
                   href: micromachining.html
                 - text: "Pump Networks"
                   href: pd_parallel.html
-                - text: "Pathfinder"
+                - text: "Path Follower"
                   href: mechatronics.html

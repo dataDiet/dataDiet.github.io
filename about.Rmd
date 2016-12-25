@@ -5,31 +5,30 @@ Berkeley, CA 94707 akiramadono@gmail.com - (540) 808-8470
 
 EDUCATION
 
-M.S. in Mechanical Engineering
-University of Illinois - Urbana, IL August 2016
+M.S. in Mechanical Engineering  
+University of Illinois - Urbana, IL August 2016  
 GPA: 3.64/4.00
 
-B.S. in Mechanical Engineering
-Virginia Tech - Blacksburg, VA May 2014
+B.S. in Mechanical Engineering  
+Virginia Tech - Blacksburg, VA May 2014  
 GPA: 3.88/4.00
 
-B.A. in Mathematics
-Swarthmore College - Swarthmore, PA May 2006
-GPA: 3.30/4.00
+B.A. in Mathematics  
+Swarthmore College - Swarthmore, PA May 2006  
+GPA: 3.30/4.00  
 
-SKILLS
+
+SKILLS  
 Python (4 years), R (5 years), SQL (6 years), SAS (4 years)
 
 WORK EXPERIENCE
 
-Data Analyst
-
+Data Analyst  
 Paysa: October 2016 - Present
 
 * Provide data reporting capabilities for employment databases.
 
-Data Analyst
-
+Data Analyst  
 mNectar: July 2016 - October 2016
 
  * Implemented content matching with graph-based affinity metric
@@ -38,8 +37,7 @@ mNectar: July 2016 - October 2016
  * Implement regressions for initial round of real time bidding campaigns
  * Implement bidding algorithm for real time bidding
 
-Teaching Assistant
-
+Teaching Assistant  
 University of Illinois at Urbana-Champaign: August 2015 - May 2016
 
 * Supervised laboratory and discussion section students in critical thinking and technical writing
@@ -47,8 +45,7 @@ University of Illinois at Urbana-Champaign: August 2015 - May 2016
 * Lab Section: ME310 - Fluid Mechanics
 * Discussion Section: TAM212 - Dynamics
 
-Testing Team Engineer
-
+Testing Team Engineer  
 VT Motorsports Formula SAE: February 2013 - May 2014
 
  * Founded new testing team
@@ -57,23 +54,20 @@ VT Motorsports Formula SAE: February 2013 - May 2014
  * Assisted with engine dynamometer tests including thermal instrumentation
  * Calibrated steering sensors using laser guides
 
-Reliability Engineer Intern
-
+Reliability Engineer Intern  
 Celanese: May 2013 - August 2013
 
 * Diagnosed clog location in high pressure pipe network via root cause analysis
 * Became proficient in usuing piping and instrumentation diagrams (P&ID)
 * Established rotating machinery database for plant
 
-Undergraduate Research Assistant
-
+Undergraduate Research Assistant  
 AeThER Lab: February 2012 - May 2012
 
 * Developed new Particle Image Velocimetry (PIV) outlier detection method
 * Built flow regime classifier for ventricular hypertrophy
 
-Consultant
-
+Consultant  
 BAE Systems: August 2015 to May 2016
 
  * Provided new data capabilities to extend multi-million contract with client
@@ -82,8 +76,7 @@ BAE Systems: August 2015 to May 2016
  * Optimized point-in-polygon algorithm for large data
  * Replicated random forest classification algorithm in JAVA
 
-Research Systems Analyst
-
+Research Systems Analyst  
 The Federal Reserve: November 2008 to October 2010
 
  * Built automated corporate website incorporating SQL-lite databases and Perl CGI scripts for industrial output section
@@ -92,8 +85,7 @@ The Federal Reserve: November 2008 to October 2010
  * Department liaison to computer networking group
  * Assisted in data management for G.17 industrial production and capacity utilization report
 			    
-Research Analyst
-
+Research Analyst  
 Fannie Mae: August 2007 to October 2008
 
  * Provided automated reporting and guidance on subprime default rates 

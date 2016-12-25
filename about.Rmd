@@ -23,11 +23,13 @@ Python (4 years), R (5 years), SQL (6 years), SAS (4 years)
 WORK EXPERIENCE
 
 Data Analyst
+
 Paysa: October 2016 - Present
 
 * Provide data reporting capabilities for employment databases.
 
 Data Analyst
+
 mNectar: July 2016 - October 2016
 
  * Implemented content matching with graph-based affinity metric
@@ -37,6 +39,7 @@ mNectar: July 2016 - October 2016
  * Implement bidding algorithm for real time bidding
 
 Teaching Assistant
+
 University of Illinois at Urbana-Champaign: August 2015 - May 2016
 
 * Supervised laboratory and discussion section students in critical thinking and technical writing
@@ -45,6 +48,7 @@ University of Illinois at Urbana-Champaign: August 2015 - May 2016
 * Discussion Section: TAM212 - Dynamics
 
 Testing Team Engineer
+
 VT Motorsports Formula SAE: February 2013 - May 2014
 
  * Founded new testing team
@@ -54,6 +58,7 @@ VT Motorsports Formula SAE: February 2013 - May 2014
  * Calibrated steering sensors using laser guides
 
 Reliability Engineer Intern
+
 Celanese: May 2013 - August 2013
 
 * Diagnosed clog location in high pressure pipe network via root cause analysis
@@ -61,12 +66,14 @@ Celanese: May 2013 - August 2013
 * Established rotating machinery database for plant
 
 Undergraduate Research Assistant
+
 AeThER Lab: February 2012 - May 2012
 
 * Developed new Particle Image Velocimetry (PIV) outlier detection method
 * Built flow regime classifier for ventricular hypertrophy
 
 Consultant
+
 BAE Systems: August 2015 to May 2016
 
  * Provided new data capabilities to extend multi-million contract with client
@@ -76,6 +83,7 @@ BAE Systems: August 2015 to May 2016
  * Replicated random forest classification algorithm in JAVA
 
 Research Systems Analyst
+
 The Federal Reserve: November 2008 to October 2010
 
  * Built automated corporate website incorporating SQL-lite databases and Perl CGI scripts for industrial output section
@@ -85,6 +93,7 @@ The Federal Reserve: November 2008 to October 2010
  * Assisted in data management for G.17 industrial production and capacity utilization report
 			    
 Research Analyst
+
 Fannie Mae: August 2007 to October 2008
 
  * Provided automated reporting and guidance on subprime default rates 

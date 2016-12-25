@@ -2,5 +2,9 @@
 title: "DataDiet"
 ---
 
-I am a analyst passionate about the applications of machine learning to diverse realms of public and private enterprises.  Data is a diet and a lifestyle, I hope to spread my enthusian for it through this site. While analyzing data, I'm always finding an interesting angle to explore.  As I come across useful techniques or insightful lines of analysis in the course of my research, I like to document my findings to contribute to the greater knowledge and efficacy of other data analysts, engineers, and scientists.  I myself an agnostic to title and just think of myself as a 'curious individual.'  Feel free to shoot me an email at akiramadono@gmail.com. 
+I like data and I like taking actions based on data.  I think this is the motivation behind everything from mechatronics to self-driving cars.  In production terms I think of this as the intersection between data and industrial operations.  In the data domain, it is critical to be able to work with data from working with databases, to cleaning data, working with sensor integration hardware, and coming up with predictive models.  On the industrial side, it is critical to understand the physical processes that generate the myriad of events in the lifetime of industrial/mechanical processes.  This can involve simulations (in CFD/FEA) as well as an understanding of fundamental closed-form physical laws of mechanics and thermofluid mechanics.
+
+<img src="images/happy_place.png" height="502" width="502">
+
+I have work experiences and academic training in both and hope to further myself in the intersection of the two spaces.
 

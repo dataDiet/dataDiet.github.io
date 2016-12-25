@@ -7,13 +7,16 @@ EDUCATION
 
 M.S. in Mechanical Engineering
 University of Illinois - Urbana, IL August 2016
-			      
+GPA: 3.64/4.00
+
 B.S. in Mechanical Engineering
 Virginia Tech - Blacksburg, VA May 2014
-			      
+GPA: 3.88/4.00
+
 B.A. in Mathematics
 Swarthmore College - Swarthmore, PA May 2006
-			      
+GPA: 3.30/4.00
+
 SKILLS
 Python (4 years), R (5 years), SQL (6 years), SAS (4 years)
 

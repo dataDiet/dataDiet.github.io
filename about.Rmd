@@ -8,7 +8,12 @@ Berkeley, CA 94707 akiramadono@gmail.com - (540) 808-8470
 WORK EXPERIENCE
 
 Data Analyst
-mNectar - San Francisco, CA - July 2016 to October 2016
+Paysa: October 2016 - Present
+
+* Provide data reporting capabilities for employment databases.
+
+Data Analyst
+mNectar: July 2016 - October 2016
 
  * Implemented content matching with graph-based affinity metric
  * Provided business recommendations based on historical performance and impact of exogenous variables
@@ -16,17 +21,47 @@ mNectar - San Francisco, CA - July 2016 to October 2016
  * Implement regressions for initial round of real time bidding campaigns
  * Implement bidding algorithm for real time bidding
 
+Teaching Assistant
+University of Illinois at Urbana-Champaign: August 2015 - May 2016
+
+* Supervised laboratory and discussion section students in critical thinking and technical writing
+* Made List of Teachers Ranked as Excellent by their Students for Fall 2015
+* Lab Section: ME310 - Fluid Mechanics
+* Discussion Section: TAM212 - Dynamics
+
+Testing Team Engineer
+VT Motorsports Formula SAE: February 2013 - May 2014
+
+ * Founded new testing team
+ * Integrated CAN accelerometer data with ECU data and strain gauge data
+ * Validated finite element designs on suspension and drivetrain
+ * Assisted with engine dynamometer tests including thermal instrumentation
+ * Calibrated steering sensors using laser guides
+
+Reliability Engineer Intern
+Celanese: May 2013 - August 2013
+
+* Diagnosed clog location in high pressure pipe network via root cause analysis
+* Became proficient in usuing piping and instrumentation diagrams (P&ID)
+* Established rotating machinery database for plant
+
+Undergraduate Research Assistant
+AeThER Lab: February 2012 - May 2012
+
+* Developed new Particle Image Velocimetry (PIV) outlier detection method
+* Built flow regime classifier for ventricular hypertrophy
+
 Consultant
-BAE Systems - August 2015 to May 2016
+BAE Systems: August 2015 to May 2016
 
  * Provided new data capabilities to extend multi-million contract with client
  * Wrote worker's compensation fraud detection algorithm for a winning contract bid
  * Integrated i2 analyst notebook software with automated Oracle databases, Perl-based search web page and, NetOwl entity identification
  * Optimized point-in-polygon algorithm for large data
  * Replicated random forest classification algorithm in JAVA
-		  
+
 Research Systems Analyst
-The Federal Reserve - November 2008 to October 2010
+The Federal Reserve: November 2008 to October 2010
 
  * Built automated corporate website incorporating SQL-lite databases and Perl CGI scripts for industrial output section
  * Ported legacy databases to XML
@@ -35,9 +70,10 @@ The Federal Reserve - November 2008 to October 2010
  * Assisted in data management for G.17 industrial production and capacity utilization report
 			    
 Research Analyst
-Fannie Mae - August 2007 to October 2008
+Fannie Mae: August 2007 to October 2008
 
- * Provided automated reporting and guidance on subprime default rates * Calculated risks presented by option ARM loans using SAS
+ * Provided automated reporting and guidance on subprime default rates 
+ * Calculated risks presented by option ARM loans using SAS
 			      
 EDUCATION
 M.S. in Mechanical Engineering

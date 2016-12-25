@@ -6,8 +6,6 @@ navbar:
         left:
                 - text: "Home"
                   href: index.html
-                - text: "About"
-                  href: about.html
                 - text: "Data Modeling"
                   menu:
                                 - text: "Clustering"
@@ -34,4 +32,6 @@ navbar:
                                   href: /reports/me412_final_report.pdf
                                 - text: "CSCI 243: Data Mining: Stock Sector Analysis"
                                   href: /reports/stock_sector_analysis.pdf
+                - text: "Resume"
+                  href: about.html
 

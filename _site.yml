@@ -8,18 +8,19 @@ navbar:
                   href: index.html
                 - text: "About"
                   href: about.html
+                - text: "Data Modeling"
                   menu:
-                    - text: "Data modeling"
-                    - text: "Clustering"
-                      href: clustering.html
-                    - text: "Insight Coding Challenge"
-                      href: https://github.com/dataDiet/digital-wallet-AMM
-                    - text: "Engineering"
-                    - text: "Micromachining"
-                      href: micromachining.html
-                    - text: "Pump Networks"
-                      href: pd_parallel.html
-                    - text: "Path Follower"
-                      href: mechatronics.html
-                    - text: "Papers"
-                      href: papers.html
+                                - text: "Clustering"
+                                  href: clustering.html
+                                - text: "Insight Coding Challenge"
+                                  href: https://github.com/dataDiet/digital-wallet-AMM
+                - text: "Engineering"
+                  menu:
+                                - text: "Micromachining"
+                                  href: micromachining.html
+                                - text: "Pump Networks"
+                                  href: pd_parallel.html
+                                - text: "Path Follower"
+                                  href: mechatronics.html
+                                - text: "Papers"
+                                  href: papers.html

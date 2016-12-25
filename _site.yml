@@ -15,3 +15,5 @@ navbar:
                   href: pd_parallel.html
                 - text: "Path Follower"
                   href: mechatronics.html
+                - text: "Papers"
+                  href: papers.html

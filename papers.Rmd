@@ -1,9 +1,10 @@
 ---
 layout: post
-title: papers
+title: Papers
 output: html_document
 ---
 
 Projects:
-* [ME503: Internal Combustion Engines; Intake and Exhaust Port Simulations]("/reports/me503_final_report.pdf")
+
+* [ME503: Internal Combustion Engines: Intake and Exhaust Port Simulations]("/reports/me503_final_report.pdf")
 * [ME412: Numerical Thermofluid Dynamics: Cooling of Data Centers]("/reports/me412_final_report.pdf")

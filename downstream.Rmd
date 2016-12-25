@@ -1,0 +1,23 @@
+---
+layout: post
+title: Downstream Metrics
+output: html_document
+---
+
+In the Ad Tech world, every single stage along the way to a conversion event is a filtering event.  At each stage, you lose customers who do not want to proceed. In my work at mNectar, an ad-network that specialized in playable ads, I got to see that data first hand.  The stages of conversion were:
+
+1. Impression - the user sees the ad on their mobile device (iOS or Android).
+2. Play - the user interacts with the playable ad a defined amount.
+3. Click - the user clicks on the download link to proceed to either the iPhone App Store or the Google Play Store.
+4. Conversion - the user downloads, installs, and opens the game on their mobile device.
+
+An unexpected trend emerged from the data.  
+
+<img src="/images/ds_metrics/ds1.png" height="502" width="502">
+
+Higher impression-to-play rates resulted in higher play-to-click rates.  That is, the more the users were engaged with the ad, the more likely they were to click.
+
+
+The situation at the next step was quite the opposite.  Those with the highest play-to-click rates were least likely to convert, while those with lowest play-to-click rates were more likely to convert!  This is in a sense, an opposite relationship from the previous stage. The problem here lies with targeting.  You can make an ad highly engaging, but if you are not showing it to the right audience, than conversions will not happen.  The orange oval I have circled corresponds to a market growth opportunity with improved targetting.  The green oval represents scenarios where ad-engagement had no impact.  The blue oval corresponds to users with a latent need for your product. 
+
+<img src="/images/ds_metrics/ds2.png" height="502" width="502">

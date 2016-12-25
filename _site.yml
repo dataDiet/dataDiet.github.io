@@ -14,6 +14,8 @@ navbar:
                                   href: clustering.html
                                 - text: "Insight Coding Challenge"
                                   href: https://github.com/dataDiet/digital-wallet-AMM
+                                - text: "Downstream Metrics"
+                                  href: downstream.html
                 - text: "Engineering"
                   menu:
                                 - text: "Micromachining"
@@ -22,5 +24,14 @@ navbar:
                                   href: pd_parallel.html
                                 - text: "Path Follower"
                                   href: mechatronics.html
-                                - text: "Papers"
-                                  href: papers.html
+                - text: "Papers"
+                  menu:
+                                - text: "ME597: Independent Study: Micromachining of Lens Mold Cavity"
+                                  href: /reports/me597_final_report.pdf
+                                - text: "ME503: Internal Combustion Engines: Intake and Exhaust Port Simulations"
+                                  href: /reports/me503_final_report.pdf
+                                - text: "ME412: Numerical Thermofluid Dynamics: Cooling of Data Centers"
+                                  href: /reports/me412_final_report.pdf
+                                - text: "CSCI 243: Data Mining: Stock Sector Analysis"
+                                  href: /reports/stock_sector_analysis.pdf
+

@@ -11,7 +11,7 @@
 
 
 
-<title>Papers</title>
+<title>Downstream Metrics</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -196,6 +196,9 @@ $(document).ready(function () {
     <li>
       <a href="https://github.com/dataDiet/digital-wallet-AMM">Insight Coding Challenge</a>
     </li>
+    <li>
+      <a href="downstream.html">Downstream Metrics</a>
+    </li>
   </ul>
 </li>
 <li class="dropdown">
@@ -214,8 +217,26 @@ $(document).ready(function () {
     <li>
       <a href="mechatronics.html">Path Follower</a>
     </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Papers
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
     <li>
-      <a href="papers.html">Papers</a>
+      <a href="/reports/me597_final_report.pdf">ME597: Independent Study: Micromachining of Lens Mold Cavity</a>
+    </li>
+    <li>
+      <a href="/reports/me503_final_report.pdf">ME503: Internal Combustion Engines: Intake and Exhaust Port Simulations</a>
+    </li>
+    <li>
+      <a href="/reports/me412_final_report.pdf">ME412: Numerical Thermofluid Dynamics: Cooling of Data Centers</a>
+    </li>
+    <li>
+      <a href="/reports/stock_sector_analysis.pdf">CSCI 243: Data Mining: Stock Sector Analysis</a>
     </li>
   </ul>
 </li>
@@ -231,16 +252,23 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Papers</h1>
+<h1 class="title toc-ignore">Downstream Metrics</h1>
 
 </div>
 
 
-<ul>
-<li><a href="/reports/me597_final_report.pdf">ME597: Micromachining of Lens Mold Cavity</a></li>
-<li><a href="/reports/me503_final_report.pdf">ME503: Internal Combustion Engines: Intake and Exhaust Port Simulations</a></li>
-<li><a href="/reports/me412_final_report.pdf">ME412: Numerical Thermofluid Dynamics: Cooling of Data Centers</a></li>
-</ul>
+<p>In the Ad Tech world, every single stage along the way to a conversion event is a filtering event. At each stage, you lose customers who do not want to proceed. In my work at mNectar, an ad-network that specialized in playable ads, I got to see that data first hand. The stages of conversion were:</p>
+<ol style="list-style-type: decimal">
+<li>Impression - the user sees the ad on their mobile device (iOS or Android).</li>
+<li>Play - the user interacts with the playable ad a defined amount.</li>
+<li>Click - the user clicks on the download link to proceed to either the iPhone App Store or the Google Play Store.</li>
+<li>Conversion - the user downloads, installs, and opens the game on their mobile device.</li>
+</ol>
+<p>An unexpected trend emerged from the data.</p>
+<p><img src="/images/ds_metrics/ds1.png" height="502" width="502"></p>
+<p>Higher impression-to-play rates resulted in higher play-to-click rates. That is, the more the users were engaged with the ad, the more likely they were to click.</p>
+<p>The situation at the next step was quite the opposite. Those with the highest play-to-click rates were least likely to convert, while those with lowest play-to-click rates were more likely to convert! This is in a sense, an opposite relationship from the previous stage. The problem here lies with targeting. You can make an ad highly engaging, but if you are not showing it to the right audience, than conversions will not happen. The orange oval I have circled corresponds to a market growth opportunity with improved targetting. The green oval represents scenarios where ad-engagement had no impact. The blue oval corresponds to users with a latent need for your product.</p>
+<p><img src="/images/ds_metrics/ds2.png" height="502" width="502"></p>
 
 
 

@@ -47,4 +47,4 @@ The front plate is bolted to the back plate with additional spacing around the b
 
 <img src="/images/micromachining/highres_micrometer.png" height="502" width="502">  
 
-
+The full report for this project can be found [here](/reports/me597_final_report.pdf).

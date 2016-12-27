@@ -19,7 +19,7 @@ GPA: 3.30/4.00
 
 
 SKILLS  
-Python (4 years), R (5 years), SQL (6 years), SAS (4 years)
+Python (4 years), R/MATLAB (5 years), SQL (6 years), SAS (4 years), PTC Creo (2 years), Ansys FLUENT (2 years)
 
 WORK EXPERIENCE
 

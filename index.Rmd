@@ -1,6 +1,16 @@
 ---
 title: "DataDiet"
 ---
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-89556602-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
 
 I like data and I like taking actions based on data.  I think this is the motivation behind everything from mechatronics to self-driving cars.  In production terms I think of this as the intersection between data and industrial operations.  In the data domain, it is critical to be able to work with data from working with databases, to cleaning data, working with sensor integration hardware, and coming up with predictive models.  On the industrial side, it is critical to understand the physical processes that generate the myriad of events in the lifetime of industrial/mechanical processes.  This can involve simulations (in CFD/FEA) as well as an understanding of fundamental closed-form physical laws of mechanics and thermofluid mechanics.
 

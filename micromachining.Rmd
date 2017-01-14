@@ -19,11 +19,11 @@ An axisymmetric specification of the 4x zoom lens is shown below.  Most iPhone's
 
 <img src="/images/micromachining/foxconn_axisymmetric.png" alt="foxconn_lense_mold_specification" height="502" width="502">
 
-My objective was to design the tooling to make the lens mold itself.The lens mold itself; each lens mold could be used to create many lenses by pouring in molten glass into the mold.  A CAD rendering of the lens mold is shown below.
+My objective was to design the tooling to make the lens mold itself; each lens mold could be used to create many lenses by pouring in molten glass into the mold.  A CAD rendering of the lens mold is shown below.
 
 <img src="/images/micromachining/lens_mold.png" height="502" width="502">
 
-The turning tool schematic is shown below.  In order to achieve the required geometry, it was absolutely essential to center the turning bit at the center of the workpiece.  Options for CNC adjustment included angular motion about the z-axis (the axis that comes off the page in the schematic), translation along the z-axis.  For the small size of the part, the angular motion is largely equivalent to translation along the x-axis.  The turning tool was originally designed to ensure maximum stiffness for turning operations.  One missing axis of freedom is translation in the y-direction.  Permanent offsets in the x,y plane result in an inability to cut through the actual center of the part in a satisfactory manner.  This was the principal problem our part was designed to solve.  
+The turning tool schematic is shown below.  In order to achieve the required geometry, it was absolutely essential to center the turning bit at the center of the workpiece.  Options for CNC adjustment included angular motion about the z-axis (the axis that comes off the page in the schematic) and translation along the z-axis.  For the small size of the part, the angular motion is largely equivalent to translation along the x-axis.  The turning tool was originally designed to ensure maximum stiffness for turning operations, thus helping towards the goal of $20 nm$ smoothness.  One missing axis of freedom is translation in the y-direction.  Permanent offsets in the x,y plane result in an inability to cut through the actual center of the part in a satisfactory manner.  This was the principal problem our part was designed to solve.  
 
 <img src="/images/micromachining/tool_schematic.png" height="502" width="502">
 

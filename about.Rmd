@@ -18,7 +18,7 @@ Results-oriented mechanical engineer with hands-on approach to tackling projects
 #### SKILLS  
 
 * Manufacturing Maintenance and Quality Control
-* CAD modeling
+* CAD modeling in Solidworks and Creo
 * Modeling and Simulation
 * MATLAB, Python, Perl, C/C++ Programming
 * Written/Verbal Communication

@@ -1,95 +1,59 @@
 ---
 title: "Akira Madono"
 ---
-Berkeley, CA 94707 akiramadono@gmail.com - (540) 808-8470
+Akira Madono
+6327 NE 32nd Place
+Portland, OR 97211
+(540) 808-8470
+akiramadono@gmail.com
+datadiet.github.io
+
+PROFESSIONAL SUMMARY
+Results-oriented mechanical engineer with hands-on approach to tackling projects and accomplishing goals.
+
+SKILLS
+Manufacturing Maintenance and Quality Control
+CAD modeling
+Modeling and Simulation
+MATLAB, Python, Perl, C/C++ Programming
+Written/Verbal Communication
+Data Acquisition Instrumentation
+Microprocessor Programming with LabVIEW
+Database management
+
+EXPERIENCE
+Research Assistant, 09/2015 to 07/2016
+University of Illinois - Urbana, IL
+Worked directly from engineering drawings and specifications
+Became experienced with operation of CNC lathe and CNC mill
+Studied blueprints and sketches to determine dimensions and tolerances
+Designed and built process tooling including cutting bit geometry and ensuring proper constraints on tool holder
+ 
+Testing Engineer, 02/2013 to 05/2014
+VT Formula SAE - Blacksburg, VA
+Quantified oversteering properties with respect to variances in race track
+Planned and evaulated results of chassis stiffness experiments
+Installed thermocouples and data acquisition systems for engine cooling tests
+Installed strain gauges and calibrated torque telemetry for structural integrity tests
+
+Reliability Engineer Intern, 05/2013 to 08/2013
+Celanese - Narrows, VA
+Investigated plant equipment failures to diagnose faulty operation and made appropriate maintenance recommendations
+Used basic statistical analysis and other quality principles and tools
+Read and interpreted piping schematics and technical drawings of pumps, heat exchangers and pressure vessels
+Planned and evaluated results of finite difference thermal analysis
+
+Undergraduate Research Assistant, 02/2012 to 05/2012
+Improved flow classification for Left Ventricular Hypertrophy
+Validated and tested engineering models to ensure adequacy and reformulate models as necessary
 
 EDUCATION
+Master of Science: Mechanical Engineering, 2016
+University of Illinois - Urbana, IL
+GPA 3.64/4.00
 
-M.S. in Mechanical Engineering  
-University of Illinois - Urbana, IL August 2016  
-GPA: 3.64/4.00
-
-B.S. in Mechanical Engineering  
-Virginia Tech - Blacksburg, VA May 2014  
-GPA: 3.88/4.00
-
-B.A. in Mathematics  
-Swarthmore College - Swarthmore, PA May 2006  
-GPA: 3.30/4.00  
-
-
-SKILLS  
-Python (4 years), R/MATLAB (5 years), SQL (6 years), SAS (4 years)  
-PTC Creo (2 years), Ansys FLUENT (2 years), LabVIEW (2 years)
-
-WORK EXPERIENCE
-
-Data Analyst  
-Paysa: October 2016 - Present
-
-* Provide data reporting capabilities for employment databases.
-
-Data Analyst  
-mNectar: July 2016 - October 2016
-
- * Implemented content matching with graph-based affinity metric
- * Provided business recommendations based on historical performance and impact of exogenous variables
- * Analyzed efficacy of metrics for predicting conversion rates 
- * Implement regressions for initial round of real time bidding campaigns
- * Implement bidding algorithm for real time bidding
-
-Teaching Assistant  
-University of Illinois at Urbana-Champaign: August 2015 - May 2016
-
-* Supervised laboratory and discussion section students in critical thinking and technical writing
-* Made List of Teachers Ranked as Excellent by their Students for Fall 2015
-* Lab Section: ME310 - Fluid Mechanics
-* Discussion Section: TAM212 - Dynamics
-
-Testing Team Engineer  
-VT Motorsports Formula SAE: February 2013 - May 2014
-
- * Founded new testing team
- * Integrated CAN accelerometer data with ECU data and strain gauge data
- * Validated finite element designs on suspension and drivetrain
- * Assisted with engine dynamometer tests including thermal instrumentation
- * Calibrated steering sensors using laser guides
-
-Reliability Engineer Intern  
-Celanese: May 2013 - August 2013
-
-* Diagnosed clog location in high pressure pipe network via root cause analysis
-* Became proficient in usuing piping and instrumentation diagrams (P&ID)
-* Established rotating machinery database for plant
-
-Undergraduate Research Assistant  
-AeThER Lab: February 2012 - May 2012
-
-* Developed new Particle Image Velocimetry (PIV) outlier detection method
-* Built flow regime classifier for ventricular hypertrophy
-
-Consultant  
-BAE Systems: August 2015 to May 2016
-
- * Provided new data capabilities to extend multi-million contract with client
- * Wrote worker's compensation fraud detection algorithm for a winning contract bid
- * Integrated i2 analyst notebook software with automated Oracle databases, Perl-based search web page and, NetOwl entity identification
- * Optimized point-in-polygon algorithm for large data
- * Replicated random forest classification algorithm in JAVA
-
-Research Systems Analyst  
-The Federal Reserve: November 2008 to October 2010
-
- * Built automated corporate website incorporating SQL-lite databases and Perl CGI scripts for industrial output section
- * Ported legacy databases to XML
- * Mentored group of 5 research analysts
- * Department liaison to computer networking group
- * Assisted in data management for G.17 industrial production and capacity utilization report
-			    
-Research Analyst  
-Fannie Mae: August 2007 to October 2008
-
- * Provided automated reporting and guidance on subprime default rates 
- * Calculated risks presented by option ARM loans using SAS
+Bachelor of Science: Mechanical Engineering, 2014
+Virginia Tech - Blacksburg, VA
+GPA 3.88/4.00
 			      
 

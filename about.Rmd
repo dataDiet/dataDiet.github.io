@@ -22,38 +22,47 @@ Microprocessor Programming with LabVIEW
 Database management
 
 EXPERIENCE
+
 Research Assistant, 09/2015 to 07/2016
+
 University of Illinois - Urbana, IL
-Worked directly from engineering drawings and specifications
-Became experienced with operation of CNC lathe and CNC mill
-Studied blueprints and sketches to determine dimensions and tolerances
-Designed and built process tooling including cutting bit geometry and ensuring proper constraints on tool holder
+* Worked directly from engineering drawings and specifications
+* Became experienced with operation of CNC lathe and CNC mill
+* Studied blueprints and sketches to determine dimensions and tolerances
+* Designed and built process tooling including cutting bit geometry and ensuring proper constraints on tool holder
  
 Testing Engineer, 02/2013 to 05/2014
+
 VT Formula SAE - Blacksburg, VA
-Quantified oversteering properties with respect to variances in race track
-Planned and evaulated results of chassis stiffness experiments
-Installed thermocouples and data acquisition systems for engine cooling tests
-Installed strain gauges and calibrated torque telemetry for structural integrity tests
+* Quantified oversteering properties with respect to variances in race track
+* Planned and evaulated results of chassis stiffness experiments
+* Installed thermocouples and data acquisition systems for engine cooling tests
+* Installed strain gauges and calibrated torque telemetry for structural integrity tests
 
 Reliability Engineer Intern, 05/2013 to 08/2013
+
 Celanese - Narrows, VA
-Investigated plant equipment failures to diagnose faulty operation and made appropriate maintenance recommendations
-Used basic statistical analysis and other quality principles and tools
-Read and interpreted piping schematics and technical drawings of pumps, heat exchangers and pressure vessels
-Planned and evaluated results of finite difference thermal analysis
+* Investigated plant equipment failures to diagnose faulty operation and made appropriate maintenance recommendations
+* Used basic statistical analysis and other quality principles and tools
+* Read and interpreted piping schematics and technical drawings of pumps, heat exchangers and pressure vessels
+* Planned and evaluated results of finite difference thermal analysis
 
 Undergraduate Research Assistant, 02/2012 to 05/2012
-Improved flow classification for Left Ventricular Hypertrophy
-Validated and tested engineering models to ensure adequacy and reformulate models as necessary
+
+AETher Lab - Blacksburg, VA
+* Improved flow classification for Left Ventricular Hypertrophy
+* Validated and tested engineering models to ensure adequacy and reformulate models as necessary
 
 EDUCATION
+
 Master of Science: Mechanical Engineering, 2016
+
 University of Illinois - Urbana, IL
-GPA 3.64/4.00
+* GPA 3.64/4.00
 
 Bachelor of Science: Mechanical Engineering, 2014
+
 Virginia Tech - Blacksburg, VA
-GPA 3.88/4.00
+* GPA 3.88/4.00
 			      
 

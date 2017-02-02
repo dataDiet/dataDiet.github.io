@@ -1,19 +1,11 @@
 name: "my-website"
 output_dir: "."
 navbar:
-        title: "DataDiet"
+        title: "Portfolio"
         type: inverse
         left:
                 - text: "Home"
                   href: index.html
-                - text: "Data Modeling"
-                  menu:
-                                - text: "Clustering"
-                                  href: clustering.html
-                                - text: "Insight Coding Challenge"
-                                  href: https://github.com/dataDiet/digital-wallet-AMM
-                                - text: "Downstream Metrics"
-                                  href: downstream.html
                 - text: "Engineering"
                   menu:
                                 - text: "Micromachining"
@@ -30,8 +22,6 @@ navbar:
                                   href: /reports/me503_final_report.pdf
                                 - text: "ME412: Numerical Thermofluid Dynamics: Cooling of Data Centers"
                                   href: /reports/me412_final_report.pdf
-                                - text: "CSCI 243: Data Mining: Stock Sector Analysis"
-                                  href: /reports/stock_sector_analysis.pdf
                 - text: "Resume"
                   href: about.html
 

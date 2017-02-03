@@ -24,7 +24,7 @@ Results-oriented mechanical engineer with hands-on approach to tackling projects
 * Written/Verbal Communication
 * Data Acquisition Instrumentation
 * Microprocessor Programming with LabVIEW
-* Database management
+* Database Management
 
 ***
 

@@ -38,11 +38,18 @@ University of Illinois - Urbana, IL
 * Studied blueprints and sketches to determine dimensions and tolerances
 * Designed and built process tooling including cutting bit geometry and ensuring proper constraints on tool holder
 
+Teaching Assistant, 09/2015 to 05/2016  
+University of Illinois - Urbana, IL
+
+* Mentored students on fluid dynamics and engineering team projects
+* Consistently received positive evaluations for teaching
+* Instructed students on appropriate technical writing 
+
 Testing Engineer, 02/2013 to 05/2014  
 VT Formula SAE - Blacksburg, VA  
 
 * Quantified oversteering properties with respect to variances in race track
-* Planned and evaulated results of chassis stiffness experiments
+* Planned and evaluated results of chassis stiffness tests
 * Installed thermocouples and data acquisition systems for engine cooling tests
 * Installed strain gauges and calibrated torque telemetry for structural integrity tests
 
@@ -57,8 +64,8 @@ Celanese - Narrows, VA
 Undergraduate Research Assistant, 02/2012 to 05/2012  
 AETher Lab - Blacksburg, VA  
 
-* Improved flow classification for Left Ventricular Hypertrophy
-* Validated and tested engineering models to ensure adequacy and reformulate models as necessary
+* Developed new outlier detection method for processing flow fields
+* Validated and tested engineering models to ensure adequacy of models
 
 ***
 

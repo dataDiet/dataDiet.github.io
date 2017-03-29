@@ -6,6 +6,12 @@ navbar:
         left:
                 - text: "Home"
                   href: index.html
+                - text: "Data Analysis"
+                  menu:
+                                - text: "Clustering"
+                                  href: clustering.html
+                                - text: "Downstream Metrics"
+                                  href: downstream.html
                 - text: "Engineering"
                   menu:
                                 - text: "Micromachining"
